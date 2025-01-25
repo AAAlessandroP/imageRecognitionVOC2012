@@ -2,3 +2,5 @@
 notes.txt
 dataset/image_sets/
 *.url
+scratch/test/
+*.npz
