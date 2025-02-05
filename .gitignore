@@ -1,6 +1,7 @@
 09-AML_CourseConclusion.pdf
 notes.txt
 dataset/image_sets/
+dataset/images/
 *.url
 scratch/test/
 *.npz
