@@ -5,7 +5,3 @@ In this work, a series of deep learning models have been developed for image cla
 
 The adopted approach consists of training a CNN from scratch, exploring the self-supervised learning paradigm, and adapting pre-trained deep neural models such as ResNet50, VGG16, and MobileNet.
 
-## Authors
- - Alessandro Gilardi - a.gilardi7@campus.unimib.it
- - Alessandro Preziosa - a.preziosa1@campus.unimib.it
- - Mattia Volpato - m.volpato4@campus.unimib.it
