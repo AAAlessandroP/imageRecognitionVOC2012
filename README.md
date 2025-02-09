@@ -5,3 +5,4 @@ In this work, a series of deep learning models have been developed for image cla
 
 The adopted approach consists of training a CNN from scratch, exploring the self-supervised learning paradigm, and adapting pre-trained deep neural models such as ResNet50, VGG16, and MobileNet.
 
+Give a look to [the relation](https://github.com/AAAlessandroP/imageRecognitionVOC2012/relation.pdf) for more details.
