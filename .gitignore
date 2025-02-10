@@ -5,3 +5,5 @@ dataset/images/
 *.url
 scratch/test/
 *.npz
+*.tar.gz
+*.tgz
